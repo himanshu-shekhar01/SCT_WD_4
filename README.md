@@ -25,14 +25,6 @@ Currently, two official plugins are available:
 
 ---
 
-## 📸 Screenshots
-
-> Replace these placeholders with real screenshots
-
-![App Screenshot](https://github.com/himanshu-shekhar01/SCT_WD_4.git/src/assets/iTask.png?raw=true)
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
