@@ -29,9 +29,7 @@ Currently, two official plugins are available:
 
 > Replace these placeholders with real screenshots
 
-![Add Task Screenshot](https://via.placeholder.com/600x200?text=Add+Task+Form)
-
-![Todo List Screenshot](https://via.placeholder.com/600x300?text=Todo+List)
+![App Screenshot](https://github.com/himanshu-shekhar01/SCT_WD_4.git/src/assets/iTask.png?raw=true)
 
 ---
 
