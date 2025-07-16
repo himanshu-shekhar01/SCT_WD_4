@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 > **Manage your tasks efficiently — with a modern UI, due dates, and time scheduling.**
 
-![iTask Screenshot](https://via.placeholder.com/800x400?text=iTask+App+Screenshot)
+![iTask Screenshot](assets/iTask.png)
 
 ---
 
